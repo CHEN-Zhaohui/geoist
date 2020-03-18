@@ -13,7 +13,7 @@
 [![Build Status](https://dev.azure.com/chenshi1980/geoist/_apis/build/status/igp-gravity.geoist)](https://dev.azure.com/chenshi1980/geoist/_build/latest?definitionId=1)
 [![lic-image](https://img.shields.io/dub/l/vibe-d.svg)](LICENSE)
 
-* [English Documentation](README.md)
+[*English Version*](https://github.com/CHEN-Zhaohui/geoist/blob/master/README.cn.md) | [*中文版*](https://github.com/CHEN-Zhaohui/geoist/blob/master/README.cn.md)
 
 ## 主要功能
 
